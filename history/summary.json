@@ -36,6 +36,24 @@
     "dailyMinutesDown": {}
   },
   {
+    "name": "Flex Jr - MySQL",
+    "url": "https://api.flexjr.one/frappez",
+    "icon": "https://favicons.githubusercontent.com/api.flexjr.one",
+    "slug": "flex-jr-my-sql",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {}
+  },
+  {
     "name": "Flex Jr - Redis",
     "url": "https://api.flexjr.one/redisz",
     "icon": "https://favicons.githubusercontent.com/api.flexjr.one",
@@ -51,6 +69,24 @@
     "timeWeek": 234,
     "timeMonth": 234,
     "timeYear": 234,
+    "dailyMinutesDown": {}
+  },
+  {
+    "name": "Flex Jr - Admin",
+    "url": "https://admin.flexjr.one/",
+    "icon": "https://favicons.githubusercontent.com/admin.flexjr.one",
+    "slug": "flex-jr-admin",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
     "dailyMinutesDown": {}
   }
 ]
