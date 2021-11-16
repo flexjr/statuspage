@@ -7,8 +7,12 @@ sites:
     url: https://app.flexjr.one/
   - name: Flex Jr - API
     url: https://api.flexjr.one/healthz
+  - name: Flex Jr - MySQL
+    url: https://api.flexjr.one/frappez
   - name: Flex Jr - Redis
     url: https://api.flexjr.one/redisz
+  - name: Flex Jr - Admin
+    url: https://admin.flexjr.one/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -17,7 +21,7 @@ status-website:
   # baseUrl: /your-repo-name
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Flex Jr
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
+  introTitle: "Uptime monitoring for Flex Jr’s apps and services."
   navbar:
     - title: Status
       href: /
