@@ -4,19 +4,19 @@
     "url": "https://app.flexjr.one/",
     "icon": "https://favicons.githubusercontent.com/app.flexjr.one",
     "slug": "flex-jr-app",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 267,
-    "timeDay": 289,
-    "timeWeek": 267,
-    "timeMonth": 267,
-    "timeYear": 267,
+    "status": "up",
+    "uptime": "97.68%",
+    "uptimeDay": "97.53%",
+    "uptimeWeek": "97.68%",
+    "uptimeMonth": "97.68%",
+    "uptimeYear": "97.68%",
+    "time": 398,
+    "timeDay": 448,
+    "timeWeek": 398,
+    "timeMonth": 398,
+    "timeYear": 398,
     "dailyMinutesDown": {
-      "2021-11-16": 0
+      "2021-11-16": 36
     }
   },
   {
