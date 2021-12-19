@@ -78,9 +78,9 @@
     "url": "https://admin.flexjr.one/",
     "icon": "https://favicons.githubusercontent.com/admin.flexjr.one",
     "slug": "flex-jr-admin",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -89,6 +89,8 @@
     "timeWeek": 1514,
     "timeMonth": 1532,
     "timeYear": 1513,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-12-19": 0
+    }
   }
 ]
