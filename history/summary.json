@@ -5,16 +5,16 @@
     "icon": "https://favicons.githubusercontent.com/app.flexjr.one",
     "slug": "flex-jr-app",
     "status": "up",
-    "uptime": "99.92%",
+    "uptime": "99.93%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.92%",
-    "time": 187,
-    "timeDay": 149,
-    "timeWeek": 152,
+    "uptimeYear": "99.93%",
+    "time": 186,
+    "timeDay": 132,
+    "timeWeek": 149,
     "timeMonth": 163,
-    "timeYear": 187,
+    "timeYear": 186,
     "dailyMinutesDown": {
       "2021-11-16": 36
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2924,
-    "timeDay": 2890,
-    "timeWeek": 2990,
-    "timeMonth": 2910,
-    "timeYear": 2924,
+    "time": 2926,
+    "timeDay": 3013,
+    "timeWeek": 3018,
+    "timeMonth": 2921,
+    "timeYear": 2926,
     "dailyMinutesDown": {}
   },
   {
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 274,
-    "timeDay": 193,
-    "timeWeek": 223,
+    "time": 273,
+    "timeDay": 210,
+    "timeWeek": 211,
     "timeMonth": 285,
-    "timeYear": 274,
+    "timeYear": 273,
     "dailyMinutesDown": {}
   },
   {
@@ -67,8 +67,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 221,
-    "timeDay": 200,
-    "timeWeek": 224,
+    "timeDay": 214,
+    "timeWeek": 217,
     "timeMonth": 223,
     "timeYear": 221,
     "dailyMinutesDown": {}
@@ -84,11 +84,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1510,
-    "timeDay": 1398,
-    "timeWeek": 1524,
-    "timeMonth": 1523,
-    "timeYear": 1510,
+    "time": 1513,
+    "timeDay": 1641,
+    "timeWeek": 1514,
+    "timeMonth": 1532,
+    "timeYear": 1513,
     "dailyMinutesDown": {}
   }
 ]
