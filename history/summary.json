@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
-    "time": 186,
-    "timeDay": 132,
-    "timeWeek": 149,
-    "timeMonth": 163,
-    "timeYear": 186,
+    "time": 184,
+    "timeDay": 111,
+    "timeWeek": 148,
+    "timeMonth": 161,
+    "timeYear": 184,
     "dailyMinutesDown": {
       "2021-11-16": 36
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2926,
-    "timeDay": 3013,
-    "timeWeek": 3018,
-    "timeMonth": 2921,
-    "timeYear": 2926,
+    "time": 2941,
+    "timeDay": 3461,
+    "timeWeek": 3081,
+    "timeMonth": 2925,
+    "timeYear": 2941,
     "dailyMinutesDown": {}
   },
   {
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 273,
-    "timeDay": 210,
-    "timeWeek": 211,
-    "timeMonth": 285,
-    "timeYear": 273,
+    "time": 272,
+    "timeDay": 256,
+    "timeWeek": 221,
+    "timeMonth": 286,
+    "timeYear": 272,
     "dailyMinutesDown": {}
   },
   {
@@ -66,11 +66,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 221,
-    "timeDay": 214,
-    "timeWeek": 217,
-    "timeMonth": 223,
-    "timeYear": 221,
+    "time": 222,
+    "timeDay": 261,
+    "timeWeek": 225,
+    "timeMonth": 224,
+    "timeYear": 222,
     "dailyMinutesDown": {}
   },
   {
@@ -79,18 +79,19 @@
     "icon": "https://favicons.githubusercontent.com/admin.flexjr.one",
     "slug": "flex-jr-admin",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "98.64%",
+    "uptimeDay": "54.38%",
+    "uptimeWeek": "93.48%",
+    "uptimeMonth": "98.50%",
+    "uptimeYear": "98.64%",
     "time": 1513,
-    "timeDay": 1641,
-    "timeWeek": 1514,
-    "timeMonth": 1532,
+    "timeDay": 0,
+    "timeWeek": 1537,
+    "timeMonth": 1525,
     "timeYear": 1513,
     "dailyMinutesDown": {
-      "2021-12-19": 0
+      "2021-12-20": 70,
+      "2021-12-19": 587
     }
   }
 ]
